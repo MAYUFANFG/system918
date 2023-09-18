@@ -50,8 +50,10 @@
 
 ```python
 s = "Python Highlights Syntax"
-print(s) ```
+print(s)
+```
 
 ```js
 var s = "javascript syntax text";
-alert(s)```
+alert(s)
+```
