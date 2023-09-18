@@ -48,10 +48,10 @@
 - [ ] 3rd thing
 - [ ] 4th thing
 
-python
+```python
 s = "Python Highlights Syntax"
-print(s) 
+print(s) ```
 
-js
+```js
 var s = "javascript syntax text";
-alert(s)
+alert(s)```
