@@ -1,30 +1,24 @@
-# system918
+# c110118120
 ## system918
 ### system918
 #### system918
 ##### system918
 ##### system918
 ![NKUST](nkust.png "高科大")
-Left-Aligned | Center Aligned | Right Aligned
-|:---------- |:--------------:|  -----------:|
+| Left-Aligned | Center Aligned | Right Aligned |
+| :-------- |:--------:| ----------:|
+| col 3 is | some wordy text | $1600 |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | $1 |
+| test | 測試 | $3333 |
 
-
-# 馬鈺芳
-## 23a
-### 23a
-#### 23a
-##### 23a
-###### 23a
-
-![NKUST](nkust.png '高科大')
 
 ---
 > 測試
 >> 測試2  
 ***
 
-這是 重點 ， **你好** ~~馬卡吧卡~~  
-我是 ***LED***  
+這是 重點 ， **你好** ~~安紐~~  
  * A
  * B  
 
@@ -39,18 +33,9 @@ Left-Aligned | Center Aligned | Right Aligned
 
  
 
- 大區塊
+ ‵‵大區塊‵‵
  
-  
----
-
-| Left-Aligned | Center Aligned | Right Aligned |
-| :-------- |:--------:| ----------:|
-| col 3 is | some wordy text | $1600 |
-| col 2 is | centered | $12 |
-| zebra stripes | are neat | $1 |
-| test | 測試 | $3333 |
-
+ 
 - [x] To do list
 - [ ] 2nd thing
 - [ ] 3rd thing
