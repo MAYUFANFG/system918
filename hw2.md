@@ -1,5 +1,5 @@
 # 甘特圖
-‵‵‵gantt
+gantt
     title A Gantt Diagram
     dateFormat  YYYY-MM-DD
     研擬計畫           :a1, 2023-10-02, 1d
@@ -13,7 +13,7 @@
     系統測試      :a9,after a6  ,25d
     使用者訓練      :a10,after a7,20d
     使用者測試      :a11,after a10  ,25d
-‵‵`
+
 # PERT圖
 
 # 關鍵路徑
