@@ -1,5 +1,6 @@
 # 甘特圖
-```gantt
+```mermaid
+gantt
     title A Gantt Diagram
     dateFormat  YYYY-MM-DD
     研擬計畫           :a1, 2023-10-02, 1d
