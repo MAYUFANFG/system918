@@ -18,20 +18,14 @@ gantt
 # PERT圖
 
 # 關鍵路徑
-graph LR
-    subgraph A[起始事件]
-        A1[活動1: 2天] --> A2[活動2: 3天]
-    end
-    subgraph B[關鍵事件]
-        B1[活動3: 5天] --> B2[活動4: 4天]
-    end
-    subgraph C[結束事件]
-        C1[活動5: 2天] --> C2[活動6: 3天]
-    end
-    A2 --> B1
-    A2 --> B2
-    B1 --> C2
-    B2 --> C1
+
+
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+
 
 
 
