@@ -16,7 +16,7 @@ gantt
     使用者測試      :a11,after a10  ,25d
 
 # PERT圖
-```graphviz
+
 digraph {
 	node[shape=record];
 	rankdir="LR";
