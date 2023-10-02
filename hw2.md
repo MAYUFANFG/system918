@@ -18,6 +18,7 @@ gantt
 # PERT圖
 
 # 關鍵路徑
+``` mermaid
 graph LR
     subgraph A[起始事件]
         A1[活動1: 2天] --> A2[活動2: 3天]
