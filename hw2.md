@@ -17,7 +17,7 @@ gantt
     使用者測試     :a11,after a10  ,25d
 
 # PERT圖
-
+    ![NKUST](image.png "pert圖")
 
 
 # 關鍵路徑
